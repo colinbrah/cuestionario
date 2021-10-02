@@ -1,0 +1,23 @@
+Flores Colin Luis Jesus & Guerrero Cruz Martin     4°F
+
+ 1. En tus palabras, ¿Qué es internet?
+Internet es una red de redes, nadie es dueño de internet la finalidad de esto es el intercambio de cualquier tipo de información entre todos los usuarios de todo el mundo.
+
+2. Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+
+3. ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+Como hemos mencionado internet no es una red centralizada y nadie es dueño de ella, su estructura es identifica a una red de araña. Las direcciones IP "protocolo de internet" son los nombres numericos que asignan a un dispositivo que se conecta a internet. Mientras que una DNS "Domain Name System" es un sistema que sirve para gestionar nombres de hosts y direcciones IP, basicamente es como un guía telefónica pero de internet.
+
+4. Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+
+5. Describe los protocolos que existen en internet, en específico HTTP y HTML
+"Hypertext Transfer Protocol", es el nombre de un protocolo el cual nos permite realizar una petición de datos y recursos
+El Lenguaje de Marcado de Hipertexto (HTML) es el código que se utiliza para estructurar y desplegar una página web y sus contenidos. Por ejemplo, sus contenidos podrían ser párrafos, una lista con viñetas, o imágenes y tablas de datos.
+
+6. En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+
+7. En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+Primero que nada bajarse un anti-virus pero si no eres tan extremista con el de windows basta pues algunos consumen muchos recursos. En segunda evitar entrar a paginas web desconocidas pues estas muchas veces contienen virus troyanos, en este punto viene englobado con NO utilizar paginas que ofrecen un servicio premium en internet pues estan plagadas de virus. De ser posible usar un vpn para cambiar la dirección IP para no saber desde que parte nos conectamos.
+NO tener la misma contraseña para todo, no abrir cualquier link que les mandan porque podrian ser victimas de un phishing que solo hara que se roben tus datos. Por ultimo la mas obvia: cambiar tus contraseñas cada cierto tiempo y usar un gestor de las mismas para no encontrarnos en la penosa necesidad de olvidarla.
+
+8. ¿Cómo funciona la búsqueda de google?
