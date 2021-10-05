@@ -1,31 +1,33 @@
 Flores Colin Luis Jesus & Guerrero Cruz Martin     4°F
 
  1. En tus palabras, ¿Qué es internet?
-Internet es una red de redes, nadie es dueño de internet la finalidad de esto es el intercambio de cualquier tipo de información entre todos los usuarios de todo el mundo.
+Internet es una red de redes, nadie es dueño de internet la finalidad de esto es el intercambio de cualquier tipo de información entre todos los usuarios de todo el mundo. <!-- ---- 5oct | @SRTP: ok ----  -->
+       
+
 
 2. Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
-En lugar de cajas y sobres, el Internet envia la informacion binaria. Se reprenta en bits, 8 bits son 1 byte, 1000 bytes son 1 kilo byte, 1000 kilo bytes son 1 mega, las canciones que mandamos por ejemplo, pesan de 3-4 megas. y para expresar los bits fisicamente pordemos tener 2 habitaciones en donde para prender la luz deimos que es igual a cero y al apagar la luz es 1 y asi es como ponemos comunicarnos informacion en bits de forma fisica, algo asi como codigo morse.
+En lugar de cajas y sobres, el Internet envia la informacion binaria. Se reprenta en bits, 8 bits son 1 byte, 1000 bytes son 1 kilo byte, 1000 kilo bytes son 1 mega, las canciones que mandamos por ejemplo, pesan de 3-4 megas. y para expresar los bits fisicamente pordemos tener 2 habitaciones en donde para prender la luz deimos que es igual a cero y al apagar la luz es 1 y asi es como ponemos comunicarnos informacion en bits de forma fisica, algo asi como codigo morse. <!-- ---- 5oct | @SRTP: pero ¿cuáles son los medios físicos y de ondas? -0.4 ----  -->
 
 3. ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
-Como hemos mencionado internet no es una red centralizada y nadie es dueño de ella, su estructura es identifica a una red de araña. Las direcciones IP "protocolo de internet" son los nombres numericos que asignan a un dispositivo que se conecta a internet. Mientras que una DNS "Domain Name System" es un sistema que sirve para gestionar nombres de hosts y direcciones IP, basicamente es como un guía telefónica pero de internet.
+Como hemos mencionado internet no es una red centralizada y nadie es dueño de ella, su estructura es identifica a una red de araña. Las direcciones IP "protocolo de internet" son los nombres numericos que asignan a un dispositivo que se conecta a internet. Mientras que una DNS "Domain Name System" es un sistema que sirve para gestionar nombres de hosts y direcciones IP, basicamente es como un guía telefónica pero de internet. <!-- ---- 5oct | @SRTP: ok ----  -->
 
 4. Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
 La manera en que la informacion se transfiere de una computadoa a otra es muy interesante que no nesecita un camino fijo. De hecho el camino puede cambiar de computadora a otra de un mensaje, informacion en internet va de computadora a otra en lo que llamamos un paquete de informacion y un paquete viaja de un lugar a otra en el internet como vas de un lugar a otro en un carro depende del trafico o condiciones del camino que tu escojas o que te hagan tomar diferente rutas para llegar al mismo 
-lugar cada vez que viajas.
+lugar cada vez que viajas. <!-- ---- 5oct | @SRTP: ok ----  -->
 
 5. Describe los protocolos que existen en internet, en específico HTTP y HTML
 "Hypertext Transfer Protocol", es el nombre de un protocolo el cual nos permite realizar una petición de datos y recursos
-El Lenguaje de Marcado de Hipertexto (HTML) es el código que se utiliza para estructurar y desplegar una página web y sus contenidos. Por ejemplo, sus contenidos podrían ser párrafos, una lista con viñetas, o imágenes y tablas de datos.
+El Lenguaje de Marcado de Hipertexto (HTML) es el código que se utiliza para estructurar y desplegar una página web y sus contenidos. Por ejemplo, sus contenidos podrían ser párrafos, una lista con viñetas, o imágenes y tablas de datos. <!-- ---- 5oct | @SRTP: ok ----  -->
 
 6. En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
 Para empezar, me quede sorprendido con todo lo que puede llegar a hacer una computadora, el hecho de tener querer proteger un mensaje que tu quieres transmitir a algun conocido conlleva muchos, MUCHOS procesos de seguridad, en el cual se encuentra la encriptacion, este proceso conlleva el tener una contraseña lo suficientemente segura para poder proteger tu mensaje o cualquier otro mensaje que transmitir para que asi, nadie ueda desifrar tu mensaje.
-Lo segundo es que depende de la cantidad de caracteres que contenga tu contraseña y la comvinacion de digitos que contenga tu contraseña, sera mas segura, pero no siempre el hecho de tener muchos digitos en tu contrasela la combierte en una contraseña segura para asi poder proteger tu mensaje, muchas veces lo que nesecites es poner en tu contraseña tantos simbolos, letras, numeros , etc... como puedas para asi que tu mensaje sea mucho mas seguro.
+Lo segundo es que depende de la cantidad de caracteres que contenga tu contraseña y la comvinacion de digitos que contenga tu contraseña, sera mas segura, pero no siempre el hecho de tener muchos digitos en tu contrasela la combierte en una contraseña segura para asi poder proteger tu mensaje, muchas veces lo que nesecites es poner en tu contraseña tantos simbolos, letras, numeros , etc... como puedas para asi que tu mensaje sea mucho mas seguro. <!-- ---- 5oct | @SRTP: ok ----  -->
 
 7. En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
 Primero que nada bajarse un anti-virus pero si no eres tan extremista con el de windows basta pues algunos consumen muchos recursos. En segunda evitar entrar a paginas web desconocidas pues estas muchas veces contienen virus troyanos, en este punto viene englobado con NO utilizar paginas que ofrecen un servicio premium en internet pues estan plagadas de virus. De ser posible usar un vpn para cambiar la dirección IP para no saber desde que parte nos conectamos.
-NO tener la misma contraseña para todo, no abrir cualquier link que les mandan porque podrian ser victimas de un phishing que solo hara que se roben tus datos. Por ultimo la mas obvia: cambiar tus contraseñas cada cierto tiempo y usar un gestor de las mismas para no encontrarnos en la penosa necesidad de olvidarla.
+NO tener la misma contraseña para todo, no abrir cualquier link que les mandan porque podrian ser victimas de un phishing que solo hara que se roben tus datos. Por ultimo la mas obvia: cambiar tus contraseñas cada cierto tiempo y usar un gestor de las mismas para no encontrarnos en la penosa necesidad de olvidarla. <!-- ---- 5oct | @SRTP: ok ----  -->
 
 8. ¿Cómo funciona la búsqueda de google? 
 El buscador no va a internet para hacer tu busqueda en tiempo real. Para hacer tu busqueda mas rapida, los buscadores estan explorando constantemente la web de antemano para registrar la informacion que pueda ayudar con tus busquedas despues. De esa manera, cuando buscas informacion, el buscador ya tiene lo que necesita para darte una respusta en tiempo real.
 Internet es como una telaraña de paginas conectadas a traves de hipervinculos. Los buscadores constantemente corren un programa llamado "araña", que camina Cada ves que encuentra un hipervinvulo.
-Cuando preguntas algo en u buscador, el buscador busca caada una de las palabras dentro de la busqueda en el indice de busqueda para obtener de inmediato una lista de todads las paginas de Internet que contienen esas palabras 
+Cuando preguntas algo en u buscador, el buscador busca caada una de las palabras dentro de la busqueda en el indice de busqueda para obtener de inmediato una lista de todads las paginas de Internet que contienen esas palabras  <!-- ---- 5oct | @SRTP: ok ----  -->
